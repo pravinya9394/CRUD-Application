@@ -1,0 +1,5 @@
+[build]
+command = "npm run build"  # Replace with your build command
+publish = "dist"           # Replace with your build output directory
+
+[build.environment]
